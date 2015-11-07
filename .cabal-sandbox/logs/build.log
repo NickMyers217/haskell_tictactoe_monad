@@ -1,0 +1,50 @@
+
+package: haskell-tictactoe-monads-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.2
+client: cabal-install-1.22.6.0
+dependencies: mtl-2.2.1 base-4.8.1.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: mtl-2.2.1
+os: linux
+arch: x86_64
+compiler: ghc-7.10.2
+client: cabal-install-1.22.6.0
+dependencies: transformers-0.4.2.0 base-4.8.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: haskell-tictactoe-monads-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.2
+client: cabal-install-1.22.6.0
+dependencies: mtl-2.2.1 base-4.8.1.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: haskell-tictactoe-monads-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.2
+client: cabal-install-1.22.6.0
+dependencies: mtl-2.2.1 base-4.8.1.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: haskell-tictactoe-monads-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.2
+client: cabal-install-1.22.6.0
+dependencies: mtl-2.2.1 base-4.8.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
